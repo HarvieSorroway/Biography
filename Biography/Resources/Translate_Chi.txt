@@ -1,0 +1,45 @@
+Unlock all creature for biography(spoiler!!!)|为生物图鉴解锁所有的生物（剧透警告！！！）
+Biography Options|生物图鉴选项
+Biography|生物图鉴
+BIOGRAPHY|生物图鉴
+Drag to change background color from black to white|拖动来调整背景颜色，从黑到白
+EntityID|实体ID
+Personality|性格
+Refresh|刷新生物
+Random|随机ID
+CreatureTemplate Infos|生物模板信息
+Basic|基础信息
+MeatPoint|食物点数
+DangerousToPlayer|危险程度
+VisualRadius|视野半径
+WaterVision|水下视力
+BlizzardAdapted|适应严寒
+Damage Resistances|伤害抗性
+Relationships|关系
+Base|基础
+Blunt|钝器伤
+Stab|刺伤
+Bite|咬伤
+Water|水流
+Explosion|爆炸
+Electric|电击
+DoesntTrack|不追踪
+Ignores|忽略
+Eats|捕食
+Afraid|害怕
+StayOutOfWay|让路
+AgressiveRival|敌对
+Attacks|攻击
+Uncomfortable|不适
+Antagonizes|对抗
+PlaysWith|玩耍
+SocialDependent|取决于好感
+Pack|组织
+This creature is still locked|这个生物还没有解锁
+Aggression|侵略性
+Bravery|勇敢
+Dominance|地位
+Energy|活力
+Nervous|焦虑
+Sympathy|同情
+saveslot|存档槽
